@@ -1,0 +1,10 @@
+# Streamlit Web UI Dependencies
+streamlit>=1.28.0
+streamlit-option-menu>=0.3.6
+
+# Data Processing (if not in main requirements.txt)
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Chart Display
+plotly>=5.17.0  # For interactive charts (optional)
