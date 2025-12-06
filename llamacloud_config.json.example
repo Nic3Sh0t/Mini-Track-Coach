@@ -1,0 +1,14 @@
+{
+  "name": "your_index_name",
+  "project_name": "your_project_name",
+  "organization_id": "your_organization_id",
+  "api_key": "your_api_key_here",
+  "llm": {
+    "provider": "openrouter",
+    "api_key": "your_openrouter_api_key_here",
+    "model": "deepseek/deepseek-v3.2",
+    "temperature": 0.7,
+    "max_tokens": 2048,
+    "context_window": 4096
+  }
+}
